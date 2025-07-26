@@ -25,6 +25,26 @@ This is a secure implementation of a video game rental system that uses TLS 1.3 
 - `games.db` - Database of available games
 - `Makefile` - Build instructions
 
+## Sample Run
+<img width="1340" height="1172" alt="image" src="https://github.com/user-attachments/assets/4fa44435-b61d-4d01-8e78-d66735178684" />
+
+<img width="1326" height="560" alt="image" src="https://github.com/user-attachments/assets/f4f9e15d-1104-4564-bb1a-43fce0f37947" />
+
+<img width="1354" height="414" alt="image" src="https://github.com/user-attachments/assets/7e7bebba-8c3e-43b0-8308-6ead6e34c2d2" />
+
+## Secure Communication 
+<img width="744" height="346" alt="image" src="https://github.com/user-attachments/assets/a0e3748a-6ba3-41d1-88bd-dac525a8ce8a" />
+
+<img width="1324" height="298" alt="image" src="https://github.com/user-attachments/assets/a5536972-cdb7-49a3-9059-182308384360" />
+
+## Password Generation Check 
+<img width="1586" height="1688" alt="image" src="https://github.com/user-attachments/assets/6cd637a0-6d68-4988-aeda-7adf8897b395" />
+
+<img width="1394" height="1116" alt="image" src="https://github.com/user-attachments/assets/77bbf38e-381a-4ba4-b796-f06efa291dfb" />
+
+<img width="1462" height="1340" alt="image" src="https://github.com/user-attachments/assets/8c45338a-5d42-4540-bd6a-ab9f6081c459" />
+
+
 ## Building
 To build the server:
 
